@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericnewcomer/Desktop/github/bingo/bingo.iOS/bingo.iOS.csproj",
+      "projectUniqueName": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.iOS/bingo.iOS.csproj",
       "projectName": "bingo.iOS",
-      "projectPath": "/Users/ericnewcomer/Desktop/github/bingo/bingo.iOS/bingo.iOS.csproj",
+      "projectPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.iOS/bingo.iOS.csproj",
       "packagesPath": "/Users/ericnewcomer/.nuget/packages/",
-      "outputPath": "/Users/ericnewcomer/Desktop/github/bingo/bingo.iOS/obj",
+      "outputPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ericnewcomer/.config/NuGet/NuGet.Config"
@@ -736,8 +736,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/ericnewcomer/Desktop/github/bingo/bingo/bingo.csproj": {
-              "projectPath": "/Users/ericnewcomer/Desktop/github/bingo/bingo/bingo.csproj"
+            "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/bingo.csproj": {
+              "projectPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/bingo.csproj"
             }
           }
         }

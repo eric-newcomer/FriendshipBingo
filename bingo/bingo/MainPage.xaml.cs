@@ -13,5 +13,15 @@ namespace bingo
         {
             InitializeComponent();
         }
+
+        void Handle_Activated(object sender, System.EventArgs e)
+        {
+            Navigation.PushAsync(new Page());
+        }
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            DisplayAlert("Success", "Event was handled", "Great!");
+        }
     }
 }

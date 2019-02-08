@@ -1,15 +1,14 @@
 ﻿<Properties StartupConfiguration="{C5728B03-B73B-4603-AFFE-56CABB9FBEB3}|Default">
-  <MonoDevelop.Ide.ItemProperties.bingo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="bingo.Android/MainActivity.cs">
+  <MonoDevelop.Ide.ItemProperties.bingo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/MainPage.xaml.cs">
     <Files>
-      <File FileName="bingo/MainPage.xaml.cs" Line="14" Column="13" />
-      <File FileName="bingo/MainPage.xaml" Line="5" Column="15" />
-      <File FileName="bingo.Android/Resources/drawable/splash_background.xml" Line="8" Column="36" />
-      <File FileName="bingo.Android/Resources/values/styles.xml" Line="11" Column="43" />
-      <File FileName="bingo.Android/MainActivity.cs" Line="23" Column="10" />
+      <File FileName="bingo/MainPage.xaml.cs" Line="19" Column="21" />
+      <File FileName="bingo/MainPage.xaml" Line="6" Column="60" />
+      <File FileName="bingo.Android/MainActivity.cs" Line="25" Column="2" />
+      <File FileName="bingo/App.xaml" Line="5" Column="15" />
+      <File FileName="bingo/App.xaml.cs" Line="14" Column="59" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.bingo.iOS FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
