@@ -22,3 +22,4 @@
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/bingo.dll
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/bingo.pdb
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/CreateGame.xaml.g.cs

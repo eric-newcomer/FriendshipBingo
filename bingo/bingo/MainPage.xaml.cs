@@ -14,14 +14,10 @@ namespace bingo
             InitializeComponent();
         }
 
-        void Handle_Activated(object sender, System.EventArgs e)
+        private async void Handle_Clicked(object sender, System.EventArgs e)
         {
-            Navigation.PushAsync(new Page());
-        }
+            await Navigation.PushAsync(new CreateGame());
 
-        void Handle_Clicked(object sender, System.EventArgs e)
-        {
-            DisplayAlert("Success", "Event was handled", "Great!");
         }
     }
 }

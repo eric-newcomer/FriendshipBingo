@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{C5728B03-B73B-4603-AFFE-56CABB9FBEB3}|Default">
   <MonoDevelop.Ide.ItemProperties.bingo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/App.xaml.cs">
     <Files>
-      <File FileName="bingo/MainPage.xaml.cs" Line="19" Column="21" />
-      <File FileName="bingo/MainPage.xaml" Line="6" Column="60" />
-      <File FileName="bingo.Android/MainActivity.cs" Line="25" Column="2" />
-      <File FileName="bingo/App.xaml" Line="5" Column="15" />
-      <File FileName="bingo/App.xaml.cs" Line="14" Column="59" />
+      <File FileName="bingo/Models/Game.cs" Line="10" Column="1" />
+      <File FileName="bingo/MainPage.xaml" Line="10" Column="67" />
+      <File FileName="bingo/MainPage.xaml.cs" Line="19" Column="58" />
+      <File FileName="bingo/CreateGame.xaml" Line="15" Column="47" />
+      <File FileName="bingo/CreateGame.xaml.cs" Line="18" Column="10" />
+      <File FileName="bingo/App.xaml.cs" Line="15" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

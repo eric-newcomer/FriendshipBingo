@@ -2,9 +2,6 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:local="clr-namespace:bingo" x:Class="bingo.MainPage">
-    <ContentPage.ToolbarItems>
-          <ToolbarItem Text="New Game"  Activated="Handle_Activated"/>
-    </ContentPage.ToolbarItems>
     <StackLayout BackgroundColor="White">
         <!-- Place new controls here -->
         <Label Font="30" FontAttributes="Bold" TextColor="Green" Text="Friendship Bingo" 
