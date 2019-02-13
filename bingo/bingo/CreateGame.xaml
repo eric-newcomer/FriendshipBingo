@@ -13,6 +13,8 @@
 
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="26" Text="Enter number of players:" Margin="0, 20, 0, 0"/>
         <Entry TextColor="Navy" Placeholder="5"/>
+        
+        <Button Text="Continue" Clicked="Handle_Clicked_1" BackgroundColor="Green" Margin="10, 100, 10, 0"/>
 
     </StackLayout>
 </ContentPage>

@@ -16,5 +16,10 @@ namespace bingo
         {
             await Navigation.PopToRootAsync();
         }
+
+        private async void Handle_Clicked_1(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new AddQuestions());
+        }
     }
 }
