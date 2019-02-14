@@ -89,6 +89,7 @@
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/obj/Debug/R.txt
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/obj/Debug/uploadflags.txt
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/bin/Debug/FormsViewGroup.pdb
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/bin/Debug/Mono.Android.pdb
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb

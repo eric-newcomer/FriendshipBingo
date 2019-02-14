@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{C5728B03-B73B-4603-AFFE-56CABB9FBEB3}|Default">
+﻿<Properties StartupConfiguration="{6FCDE709-EDD2-4817-A29F-18C87CDF6E6A}|Default">
   <MonoDevelop.Ide.ItemProperties.bingo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/AddQuestions.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/MainPage.xaml">
     <Files>
       <File FileName="bingo/Models/Game.cs" Line="10" Column="1" />
-      <File FileName="bingo/MainPage.xaml" Line="10" Column="67" />
+      <File FileName="bingo/MainPage.xaml" Line="11" Column="51" />
       <File FileName="bingo/MainPage.xaml.cs" Line="19" Column="58" />
       <File FileName="bingo/CreateGame.xaml" Line="16" Column="9" />
       <File FileName="bingo/CreateGame.xaml.cs" Line="22" Column="56" />
@@ -12,6 +12,7 @@
       <File FileName="bingo/AddQuestions.xaml" Line="5" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bingo.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C53B44F1-C5EC-405A-9827-47326DDFC424" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
