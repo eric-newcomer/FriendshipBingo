@@ -1,16 +1,29 @@
 ﻿<Properties StartupConfiguration="{6FCDE709-EDD2-4817-A29F-18C87CDF6E6A}|Default">
   <MonoDevelop.Ide.ItemProperties.bingo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/Models/Board.cs">
     <Files>
-      <File FileName="bingo/Models/Game.cs" Line="10" Column="1" />
-      <File FileName="bingo/MainPage.xaml" Line="11" Column="51" />
-      <File FileName="bingo/MainPage.xaml.cs" Line="19" Column="58" />
-      <File FileName="bingo/CreateGame.xaml" Line="16" Column="9" />
-      <File FileName="bingo/CreateGame.xaml.cs" Line="22" Column="56" />
-      <File FileName="bingo/App.xaml.cs" Line="13" Column="59" />
-      <File FileName="bingo/AddQuestions.xaml.cs" Line="15" Column="1" />
-      <File FileName="bingo/AddQuestions.xaml" Line="5" Column="5" />
+      <File FileName="bingo/Models/Game.cs" Line="11" Column="1" />
+      <File FileName="bingo/Views/CreateGame.xaml" Line="15" Column="42" />
+      <File FileName="bingo/Views/CreateGame.xaml.cs" Line="18" Column="10" />
+      <File FileName="bingo/ViewModels/CreateGameViewModel.cs" Line="27" Column="13" NotebookId="1" />
+      <File FileName="bingo.iOS/Main.cs" Line="21" Column="1" NotebookId="1" />
+      <File FileName="bingo/Models/Board.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bingo" expanded="True">
+            <Node name="bingo" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="bingo.iOS" expanded="True">
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.bingo.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C53B44F1-C5EC-405A-9827-47326DDFC424" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

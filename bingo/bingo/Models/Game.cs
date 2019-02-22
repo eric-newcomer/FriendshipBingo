@@ -5,8 +5,6 @@ namespace bingo.Models
     {
         public string gameName { get; set; }
         public int numPlayers { get; set; }
-        public int[] tileOptions { get; set; }
-        public DateTime Date { get; set; }
-
+        public string[] facts { get; set; }
     }
 }

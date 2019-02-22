@@ -10,10 +10,6 @@
 /Users/ericnewcomer/Desktop/github/bingo/bingo/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/ericnewcomer/Desktop/github/bingo/bingo/obj/Debug/netstandard2.0/bingo.dll
 /Users/ericnewcomer/Desktop/github/bingo/bingo/obj/Debug/netstandard2.0/bingo.pdb
-/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/AddQuestions.xaml.g.cs
-/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/CreateGame.xaml.g.cs
-/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/bingo.csproj.CoreCompileInputs.cache
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/bingo.AssemblyInfoInputs.cache
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/bingo.AssemblyInfo.cs
@@ -24,3 +20,8 @@
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/bin/Debug/netstandard2.0/bingo.dll
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/bin/Debug/netstandard2.0/bingo.pdb
 /Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/Views/AddQuestions.xaml.g.cs
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/Views/App.xaml.g.cs
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/Views/CreateGame.xaml.g.cs
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo/obj/Debug/netstandard2.0/Views/GamePage.xaml.g.cs

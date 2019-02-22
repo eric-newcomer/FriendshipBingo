@@ -948,8 +948,9 @@
       "projectName": "bingo.Android",
       "projectPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/bingo.Android.csproj",
       "packagesPath": "/Users/ericnewcomer/.nuget/packages/",
-      "outputPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/obj",
+      "outputPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/bingo/bingo.Android/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/ericnewcomer/.config/NuGet/NuGet.Config"
       ],
