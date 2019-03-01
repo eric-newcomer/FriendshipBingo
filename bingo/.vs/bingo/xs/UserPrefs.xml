@@ -1,31 +1,36 @@
-﻿<Properties StartupConfiguration="{6FCDE709-EDD2-4817-A29F-18C87CDF6E6A}|Default">
-  <MonoDevelop.Ide.ItemProperties.bingo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="bingo/Models/Board.cs">
+﻿<Properties StartupConfiguration="{5024468F-E146-4CBC-8CDF-7D6C3740D581}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bingo.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bingo/Bingo/ViewModels/ViewAViewModel.cs">
     <Files>
-      <File FileName="bingo/Models/Game.cs" Line="11" Column="1" />
-      <File FileName="bingo/Views/CreateGame.xaml" Line="15" Column="42" />
-      <File FileName="bingo/Views/CreateGame.xaml.cs" Line="18" Column="10" />
-      <File FileName="bingo/ViewModels/CreateGameViewModel.cs" Line="27" Column="13" NotebookId="1" />
-      <File FileName="bingo.iOS/Main.cs" Line="21" Column="1" NotebookId="1" />
-      <File FileName="bingo/Models/Board.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Bingo/Bingo/App.xaml.cs" Line="33" Column="62" />
+      <File FileName="Bingo/Bingo/Views/MainPage.xaml" Line="8" Column="65" />
+      <File FileName="Bingo/Bingo/ViewModels/MainPageViewModel.cs" Line="26" Column="10" />
+      <File FileName="Bingo/Bingo/ViewModels/ViewModelBase.cs" Line="1" Column="1" />
+      <File FileName="Bingo/Bingo/Views/ViewA.xaml" Line="16" Column="19" />
+      <File FileName="Bingo/Bingo/ViewModels/ViewAViewModel.cs" Line="25" Column="10" />
+      <File FileName="Bingo/Bingo/Views/MainPage.xaml.cs" Line="14" Column="35" />
+      <File FileName="Bingo/Bingo/Views/ViewB.xaml" Line="7" Column="15" />
+      <File FileName="Bingo/Bingo/Views/ViewB.xaml.cs" Line="1" Column="1" />
+      <File FileName="Bingo/Bingo/ViewModels/ViewBViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="bingo" expanded="True">
-            <Node name="bingo" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+          <Node name="Bingo" expanded="True">
+            <Node name="Bingo" expanded="True">
+              <Node name="ViewModels" expanded="True">
+                <Node name="ViewAViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="bingo.iOS" expanded="True">
-              <Node name="Packages" selected="True" />
-            </Node>
+            <Node name="Bingo.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.bingo.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C53B44F1-C5EC-405A-9827-47326DDFC424" />
+  <MonoDevelop.Ide.ItemProperties.Bingo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C53B44F1-C5EC-405A-9827-47326DDFC424" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
