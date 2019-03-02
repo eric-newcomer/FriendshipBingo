@@ -2,26 +2,27 @@
   <MonoDevelop.Ide.ItemProperties.Bingo.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Bingo/Bingo/ViewModels/ViewAViewModel.cs">
     <Files>
-      <File FileName="Bingo/Bingo/App.xaml.cs" Line="33" Column="62" />
-      <File FileName="Bingo/Bingo/Views/MainPage.xaml" Line="8" Column="65" />
-      <File FileName="Bingo/Bingo/ViewModels/MainPageViewModel.cs" Line="26" Column="10" />
       <File FileName="Bingo/Bingo/ViewModels/ViewModelBase.cs" Line="1" Column="1" />
-      <File FileName="Bingo/Bingo/Views/ViewA.xaml" Line="16" Column="19" />
-      <File FileName="Bingo/Bingo/ViewModels/ViewAViewModel.cs" Line="25" Column="10" />
-      <File FileName="Bingo/Bingo/Views/MainPage.xaml.cs" Line="14" Column="35" />
-      <File FileName="Bingo/Bingo/Views/ViewB.xaml" Line="7" Column="15" />
-      <File FileName="Bingo/Bingo/Views/ViewB.xaml.cs" Line="1" Column="1" />
+      <File FileName="Bingo/Bingo/App.xaml.cs" Line="34" Column="62" />
+      <File FileName="Bingo/Bingo/Models/Game.cs" Line="10" Column="52" />
+      <File FileName="Bingo/Bingo/ViewModels/ViewAViewModel.cs" Line="29" Column="1" />
       <File FileName="Bingo/Bingo/ViewModels/ViewBViewModel.cs" Line="1" Column="1" />
+      <File FileName="Bingo/Bingo/Views/ViewA.xaml" Line="10" Column="16" />
+      <File FileName="Bingo/Bingo/Views/ViewB.xaml" Line="7" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bingo" expanded="True">
             <Node name="Bingo" expanded="True">
+              <Node name="Models" expanded="True" />
               <Node name="ViewModels" expanded="True">
                 <Node name="ViewAViewModel.cs" selected="True" />
               </Node>
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="ViewB.xaml" expanded="True" />
+              </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
             <Node name="Bingo.iOS" expanded="True" />

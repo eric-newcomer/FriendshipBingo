@@ -436,11 +436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo.Android/Bingo.Android.csproj",
+      "projectUniqueName": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo.Android/Bingo.Android.csproj",
       "projectName": "Bingo.Android",
-      "projectPath": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo.Android/Bingo.Android.csproj",
+      "projectPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo.Android/Bingo.Android.csproj",
       "packagesPath": "/Users/ericnewcomer/.nuget/packages/",
-      "outputPath": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo.Android/obj/",
+      "outputPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -455,8 +455,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo/Bingo.csproj": {
-              "projectPath": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo/Bingo.csproj"
+            "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo/Bingo.csproj": {
+              "projectPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo/Bingo.csproj"
             }
           }
         }

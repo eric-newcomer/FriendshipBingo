@@ -9,10 +9,16 @@ using Prism.Services;
 
 namespace Bingo.ViewModels
 {
-    public class ViewBViewModel : ViewModelBase
+    public class ViewBViewModel : ViewModelBase, INavigationAware
     {
         public ViewBViewModel(INavigationService navigationService) : base(navigationService)
         {
+
+        }
+
+        public override void OnNavigatedTo(INavigationParameters parameters)
+        {
+            Title = parameters.GetValue<string>("name");
         }
     }
 }

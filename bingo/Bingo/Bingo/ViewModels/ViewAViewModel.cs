@@ -6,6 +6,7 @@ using Prism.Commands;
 using Prism.Navigation;
 using Prism.Logging;
 using Prism.Services;
+using Bingo.Models;
 
 namespace Bingo.ViewModels
 {
@@ -19,10 +20,12 @@ namespace Bingo.ViewModels
         {
             Title = "Page 1";
         }
-
+         
         async void ExecuteNavigateCommand()
         {
-            await NavigationService.NavigateAsync("ViewB");
+            var p = new NavigationParameters();
+            p.Add("name", Name);
+            await NavigationService.NavigateAsync("ViewB", p);
         }
     }
 }

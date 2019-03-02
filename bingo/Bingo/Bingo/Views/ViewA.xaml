@@ -7,7 +7,7 @@
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="30" Margin="0, 100, 0, 0" Text="Start a New Game" FontAttributes="Bold" />
         
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="26" Text="Enter Game Name:" Margin="0, 20, 0, 0" />
-        <Entry TextColor="Navy"/>
+        <Entry Text="{Binding Name}" TextColor="Navy" Placeholder="'AwesomeGame'"/>
         
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="26" Text="Enter number of players:" Margin="0, 20, 0, 0" />
         <Entry TextColor="Navy" Placeholder="'5'"/>

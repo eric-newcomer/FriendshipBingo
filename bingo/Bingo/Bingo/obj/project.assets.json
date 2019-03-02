@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo/Bingo.csproj",
+      "projectUniqueName": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo/Bingo.csproj",
       "projectName": "Bingo",
-      "projectPath": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo/Bingo.csproj",
+      "projectPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo/Bingo.csproj",
       "packagesPath": "/Users/ericnewcomer/.nuget/packages/",
-      "outputPath": "/Users/ericnewcomer/Desktop/Bingo/Bingo/Bingo/obj/",
+      "outputPath": "/Users/ericnewcomer/Desktop/FriendshipBingo/Bingo/Bingo/Bingo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
