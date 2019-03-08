@@ -1,22 +1,20 @@
 ﻿<Properties StartupConfiguration="{F1DB678C-CB40-4732-B1AA-C4537943C24C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FriendshipBingo/Models/Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FriendshipBingo/Board.xaml">
     <Files>
       <File FileName="FriendshipBingo/GameMakerPage.xaml" Line="12" Column="31" />
-      <File FileName="FriendshipBingo/GameMakerPage.xaml.cs" Line="26" Column="72" />
-      <File FileName="FriendshipBingo/Board.xaml" Line="48" Column="16" />
-      <File FileName="FriendshipBingo/Board.xaml.cs" Line="26" Column="54" />
+      <File FileName="FriendshipBingo/GameMakerPage.xaml.cs" Line="28" Column="49" />
+      <File FileName="FriendshipBingo/Board.xaml" Line="23" Column="21" />
+      <File FileName="FriendshipBingo/Board.xaml.cs" Line="18" Column="1" />
       <File FileName="FriendshipBingo.iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="FriendshipBingo/Models/Game.cs" Line="11" Column="58" />
+      <File FileName="FriendshipBingo/Models/Game.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FriendshipBingo" expanded="True">
             <Node name="FriendshipBingo" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Game.cs" selected="True" />
-              </Node>
-              <Node name="Board.xaml" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Board.xaml" expanded="True" selected="True" />
               <Node name="GameMakerPage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
               <Node name="QuestionPage.xaml" expanded="True" />
