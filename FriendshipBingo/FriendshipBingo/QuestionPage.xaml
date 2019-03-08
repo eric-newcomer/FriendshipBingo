@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="FriendshipBingo.QuestionPage">
+    <ContentPage.Content>
+    </ContentPage.Content>
+    <StackLayout x:Name="Me" BackgroundColor="Black">
+        <Label TextColor="White" HorizontalOptions="Center" FontSize="26" Margin="0, 40, 0, 0" Text="Fun Fact:" FontAttributes="Bold" />
+        <Label TextColor="White" HorizontalOptions="Center" FontSize="20" Margin="0, 40, 0, 0" Text="Fact Display" FontAttributes="Italic"/>      
+        <Label TextColor="White" HorizontalOptions="Center" FontSize="20" Margin="0, 40, 0, 0" Text="Whose fact is this?"/>
+        <Entry Placeholder="FirstName" FontSize="20" Margin="10, 40, 10, 0"/>
+        <Button BackgroundColor="Green" TextColor="White" Text="Check" FontSize="20" Margin="10, 40, 10, 0" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:FriendshipBingo" x:Class="FriendshipBingo.MainPage">
+    <StackLayout BackgroundColor="White">
+        <!-- Place new controls here -->
+        <Label Font="30" FontAttributes="Bold" TextColor="Green" Text="Friendship Bingo" 
+               HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Button Text="GO" TextColor="White" BackgroundColor="Green" 
+                 Margin="10, 0, 10, 150" Clicked="Handle_Clicked"/>
+    </StackLayout>
+</ContentPage>
