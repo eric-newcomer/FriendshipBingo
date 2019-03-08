@@ -6,10 +6,10 @@
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="28" Margin="0, 40, 0, 0" Text="Start a New Game!" FontAttributes="Bold" />
         
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="20" Text="Enter Game Name:" Margin="0, 20, 0, 0" />
-        <Entry Text="{Binding Name}" TextColor="Navy" Placeholder="'AwesomeGame'" Margin="10, 0, 10, 0"/>
+        <Entry x:Name="Name" Text="{Binding Name}" TextColor="Navy" Placeholder="'AwesomeGame'" Margin="10, 0, 10, 0"/>
         
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="20" Text="Enter number of players:" Margin="0, 20, 0, 0" />
-        <Entry TextColor="Navy" Placeholder="'5'" Text="{Binding Players}" Margin="10, 0, 10, 0"/>
+        <Entry x:Name="Players" TextColor="Navy" Placeholder="'5'" Text="{Binding Players}" Margin="10, 0, 10, 0"/>
         
         <Label TextColor="Green" HorizontalOptions="Center" FontSize="20" 
                Text="Enter tiles: Pass the phone to each player to enter a fun fact!" Margin="10, 20, 10, 0"

@@ -3,7 +3,7 @@
     <ContentPage.Content>
     </ContentPage.Content>
     <StackLayout BackgroundColor="Black">
-        <Label Text="Friendship Bingo" TextColor="White" FontSize="30" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,80,0,0"/>
+        <Label Text="{Binding Name}" TextColor="White" FontSize="30" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,80,0,0"/>
         <Grid Margin="10,0,10,0" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="0.2*"/>
@@ -20,31 +20,31 @@
                 <RowDefinition Height="60"/>
             </Grid.RowDefinitions>
             
-            <Button x:Name="one" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="two" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="three" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="four" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="five" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="six" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="seven" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="eight" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="nine" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="ten" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="eleven" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twelve" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="thirteen" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="fourteen" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="fifteen" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="sixteen" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="seventeen" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="eighteen" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="nineteen" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twenty" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twentyone" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twentytwo" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twentythree" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twentyfour" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
-            <Button x:Name="twentyfive" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control1" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control2" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control3" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control4" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control5" Clicked="Handle_Clicked" Grid.Row="0" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control6" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control7" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control8" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control9" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control10" Clicked="Handle_Clicked" Grid.Row="1" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control11" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control12" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control13" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control14" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control15" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control16" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control17" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control18" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control19" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control20" Clicked="Handle_Clicked" Grid.Row="3" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control21" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="0" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control22" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="1" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control23" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="2" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control24" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="3" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
+            <Button x:Name="control25" Clicked="Handle_Clicked" Grid.Row="4" Grid.Column="4" BackgroundColor="Green" BorderColor="White" BorderWidth="2"/>
         </Grid>
     </StackLayout>
 </ContentPage>

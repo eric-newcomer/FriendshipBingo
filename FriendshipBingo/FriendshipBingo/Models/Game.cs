@@ -6,16 +6,10 @@ namespace FriendshipBingo.Models
 {
     public class Game
     {
-        public string Name;
-        public int Players;
-        public Dictionary<string, string> FactDict;
+        public string Name { get; set; }
+        public int Players { get; set; }
+        public Dictionary<string, string> FactDict { get; set; }
 
-        public Game(string Name, int Players, Dictionary<string,string> fd)
-        {
-            this.Name = Name;
-            this.Players = Players;
-            this.FactDict = fd;
-        }
 
     }
 }
